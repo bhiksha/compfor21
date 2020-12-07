@@ -27,7 +27,7 @@ With new AI-based technologies that power almost all activities in the digital w
 **Instructor:**    [Rita Singh](http://mlsp.cs.cmu.edu/people/rsingh/index.html) (rsingh@cs.cmu.edu)
 
 **TAs:**         
-		[Shahan Ali Memon](http://shahanmemon.com/) (samemon@cs.cmu.edu)\\
+		[TBD](http://shahanmemon.com/) (samemon@cs.cmu.edu)\\
 		 [Mahmoud Al-Ismail](http://mahmoudalismail.com/) (mahmoudi@andrew.cmu.edu)\\
 		 [Bhiksha Raj](http://mlsp.cs.cmu.edu/people/bhiksha/index.php) (bhiksha@cs.cmu.edu)\\
 		 [Ben Striner](https://www.linkedin.com/in/benjamin-striner-48a9a913/) (bstriner@andrew.cmu.edu)
