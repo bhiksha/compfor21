@@ -15,7 +15,7 @@ There are a total of 80 points:
 		<tr>
 			<td class="icon" style="color: red">💻</td>
 			<td><b>Assignments</b><br>60 points</td>
-			<td>These assignments will be released tri-weekly, and will be 15 points each.</td>
+			<td>These assignments will be released tri-weekly, and will be 20 points each.</td>
 		</tr>
 		<tr>
 			<td class="icon" style="color: orange">📑</td>
@@ -26,9 +26,9 @@ There are a total of 80 points:
 </table>
 
 # Assignments
-The four assignments for this course will be based on state-of-the-art technqiues to track cybercrimes. A brief description of them is as follows:
+The three assignments for this course will be based on state-of-the-art technqiues to track cybercrimes. A brief description of them is as follows:
 
-## Assignment I: Network & Deep Web Forensic Analysis (15 points)
+## Assignment I: Network & Deep Web Forensic Analysis (20 points)
 The first part of this assignment will be based on getting familiar with "packet sniffing" and analyzing data network characteristics using the network packet trace This assignment will be based on getting familiar with network and deep web forensics. There are six parts to this homework. The first three parts will be based on “packet sniffing” and analyzing data network characteristics using the network packet trace (or pcap), and understanding to identify different network threats and vulnerabilities. The last three parts with be based on getting familiar with the dark web by analyzing the characteristics of the Tor circuit, crawling and modeling topics around the dark web, and finally getting familiar with the Tor hidden services. The six parts are briefly described below:
 
 <table>
@@ -60,7 +60,7 @@ The first part of this assignment will be based on getting familiar with "packet
 	</tbody>
 </table>
 
-## Assignment II: Machine Learning & Voice Forensics (15 points)
+## Assignment II: Machine Learning & Voice Forensics (20 points)
 In this assignment, you will apply your understanding of artificial intelligence to build knowledge and rules for forensic applications, and then use your knowledge of machine learning to engineer features,  and build models for voice forensic applications. This assignment has 5 parts which are as follows:
 
 <table>
@@ -88,10 +88,7 @@ In this assignment, you will apply your understanding of artificial intelligence
 	</tbody>
 </table>
 
-## Assignment III: Image Forensics (15 points)
-TBD
-
-## Assignment IV: DeepFakes (15 points)
+## Assignment III: DeepFakes (20 points)
 DeepFake is the process of swapping the face of a source identity with a target identity in a given video/image using deep learning techniques. The name originates from "deep learning" and "fake". There are many technologies that can used to generate fakes but ones that use deep learning are called DeepFakes and tend to be the most photo-realistic. This assignment is to familiarize you with “DeepFakes”. There are two parts to this assignment which are as follows:
 
 <table>
