@@ -27,14 +27,13 @@ With new AI-based technologies that power almost all activities in the digital w
 **Instructor:**    [Rita Singh](http://mlsp.cs.cmu.edu/people/rsingh/index.html) (rsingh@cs.cmu.edu)
 
 **TAs:**         
-		[TBD](http://shahanmemon.com/) (samemon@cs.cmu.edu)\\
-		 [TBD](http://mahmoudalismail.com/) (mahmoudi@andrew.cmu.edu)\\
+		 Zhenzhen Liu (zhenzhel@andrew.cmu.edu)\\
 		 [Bhiksha Raj](http://mlsp.cs.cmu.edu/people/bhiksha/index.php) (bhiksha@cs.cmu.edu)\\
 		 [Ben Striner](https://www.linkedin.com/in/benjamin-striner-48a9a913/) (bstriner@andrew.cmu.edu)
 
 ## Venue and timings for lectures and office hours
 
-Lecture: Monday and Wednesday, 9:00 a.m. - 10:20 a.m. @WEH 5409 \\
+Lecture: Monday and Wednesday, 8:20 p.m. - 9:40 p.m. over Zoom \\
 Office Hours: By appointment
 
 
