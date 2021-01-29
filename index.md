@@ -28,6 +28,7 @@ With new AI-based technologies that power almost all activities in the digital w
 
 **TAs:**         
 		 Zhenzhen Liu (zhenzhel@andrew.cmu.edu)\\
+		 [Shahan Ali Memon](https://nyuad.nyu.edu/en/research/postdoctoral-research/researchers/research-bios/shahan-ali-memon.html) (samemon@andrew.cmu.edu)\\
 		 [Bhiksha Raj](http://mlsp.cs.cmu.edu/people/bhiksha/index.php) (bhiksha@cs.cmu.edu)\\
 		 [Ben Striner](https://www.linkedin.com/in/benjamin-striner-48a9a913/) (bstriner@andrew.cmu.edu)
 
