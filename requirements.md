@@ -8,13 +8,13 @@ Grading will be based on 2 major components: Weekly quizzes and Bi-weekly assign
 
 # Grading Breakdown
 
-There are a total of 80 points:
+There are a total of 100 points:
 
 <table>
 	<tbody>	
 		<tr>
 			<td class="icon" style="color: red">💻</td>
-			<td><b>Assignments</b><br>60 points</td>
+			<td><b>Assignments</b><br>80 points</td>
 			<td>These assignments will be released tri-weekly, and will be 20 points each.</td>
 		</tr>
 		<tr>
@@ -26,7 +26,7 @@ There are a total of 80 points:
 </table>
 
 # Assignments
-The three assignments for this course will be based on state-of-the-art technqiues to track cybercrimes. A brief description of them is as follows:
+The four assignments for this course will be based on state-of-the-art technqiues to track cybercrimes. A brief description of them is as follows:
 
 ## Assignment I: Network & Deep Web Forensic Analysis (20 points)
 The first part of this assignment will be based on getting familiar with "packet sniffing" and analyzing data network characteristics using the network packet trace This assignment will be based on getting familiar with network and deep web forensics. There are six parts to this homework. The first three parts will be based on “packet sniffing” and analyzing data network characteristics using the network packet trace (or pcap), and understanding to identify different network threats and vulnerabilities. The last three parts with be based on getting familiar with the dark web by analyzing the characteristics of the Tor circuit, crawling and modeling topics around the dark web, and finally getting familiar with the Tor hidden services. The six parts are briefly described below:
@@ -88,7 +88,10 @@ In this assignment, you will apply your understanding of artificial intelligence
 	</tbody>
 </table>
 
-## Assignment III: DeepFakes (20 points)
+## Assignment III: Images (20 points)
+This assignment will be based on images and steganography. We will add the details later.
+
+## Assignment IV: DeepFakes (20 points)
 DeepFake is the process of swapping the face of a source identity with a target identity in a given video/image using deep learning techniques. The name originates from "deep learning" and "fake". There are many technologies that can used to generate fakes but ones that use deep learning are called DeepFakes and tend to be the most photo-realistic. This assignment is to familiarize you with “DeepFakes”. There are two parts to this assignment which are as follows:
 
 <table>
@@ -106,7 +109,7 @@ DeepFake is the process of swapping the face of a source identity with a target 
 
 # Grading
 
-There's a maximum score: 80 points.
+There's a maximum score: 100 points.
 
 - A+ 100% to 94.0%
 - A < 94.0% to 90.0%
