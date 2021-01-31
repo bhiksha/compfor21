@@ -61,7 +61,7 @@ There will be 14 weeks of lectures. A different forensic subarea will be covered
 A more comprehensive syllabus can be found [here](https://drive.google.com/file/d/1DgTGOnRHeSikfUWpsAJ6HNiE1dW4ofKd/view?usp=sharing) 
 
 The weekly lectures will be slide-based. Research papers, (accessible) textbook chapters and notes will be provided as links where necessary. Slides for each class will be uploaded on Piazza *after* each class, on the same day as the class.
-Homeworks will be released in class, and explained in a 30 minute recitation at the end of the corresponding class. Attendance is expected and recommended. Lectures will not be recorded.
+Homeworks will be released in class, and explained in a 30 minute recitation at the end of the corresponding class. Attendance is expected and recommended. Lectures **will** be recorded.
 
 ## Enrollment requirements
 
