@@ -40,22 +40,22 @@ Office Hours: By appointment
 ## Basic course structure
 There will be 14 weeks of lectures. A different forensic subarea will be covered each week in 2 lectures of 1 hr 20 mins each. There will be one quiz at the end of each week (released Thursday midnight, due Sunday midnight) and 4 homeworks in all. Each homework will be due within 2 weeks from the date of release. 
 
-**Schedule of lectures:**
+**Schedule of lectures (The order of topics, is tentative, and may change later):**
 
 **Week 1:** Introduction\\
-**Week 2:** Network forensics\\
-**Week 3:** Dark Web forensics (HW1 released)\\
-**Week 4:** Computer forensics\\
-**Week 5:** Machine learning in forensics\\
-**Week 6:** Deep learning and AI in forensics (HW2 released)\\
-**Week 7:** Text and social media forensics\\
-**Week 8:** Cryptography\\
-**Week 9:** Image forensics (HW3 released)\\
-**Week 10:** Steganography\\
-**Week 11:** Video forensics\\
-**Week 12:** Audio forensics (HW4 released)\\
+**Week 2:** Network Forensics\\
+**Week 3:** Dark Web Forensics (HW1 released)\\
+**Week 4:** Computer Forensics\\
+**Week 5:** Artificial Intelligence, Machine Learning and Deep Learning\\
+**Week 6:** Artificial Intelligence, Machine Learning and Deep Learning (HW2 released)\\
+**Week 7:** Text and Social Media Forensics\\
+**Week 8:** Audio Forensics\\
+**Week 9:** Image Forensics (HW3 released)\\
+**Week 10:** Video Forensics\\
+**Week 11:** Steganography\\
+**Week 12:** Cryptography (HW4 released)\\
 **Week 13:** DeepFakes: generation and tracking\\
-**Week 14:** Advanced tracking techniques
+**Week 14:** Class Presentations
 
 A more comprehensive syllabus can be found [here](https://drive.google.com/file/d/1IXKJdgz4U-E8Pv9wlv_Yqlz9KZqFrS26/view?usp=sharing). 
 
