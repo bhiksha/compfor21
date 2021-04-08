@@ -60,8 +60,8 @@ The first part of this assignment will be based on getting familiar with "packet
 	</tbody>
 </table>
 
-## Assignment II: Machine Learning & Voice Forensics (20 points)
-In this assignment, you will apply your understanding of artificial intelligence to build knowledge and rules for forensic applications, and then use your knowledge of machine learning to engineer features,  and build models for voice forensic applications. This assignment has 5 parts which are as follows:
+## Assignment II: AI, Text & Social Media Forensics (20 points)
+In this assignment, you will apply your understanding of artificial intelligence to build knowledge and rules for forensic applications, and then use your knowledge of machine learning to engineer features,  and build models for social media forensics. This assignment has 4 parts which are as follows:
 
 <table>
 	<tbody>	
@@ -78,18 +78,31 @@ In this assignment, you will apply your understanding of artificial intelligence
 			<td> In this part, you will conduct a forensic background check of a person using social media and text forensic tools, and create a detailed report.</td>
 		</tr>
 		<tr>
-			<td><b>Part 4: Analyzing Audios for COVID-19 signatures</b></td>
-			<td>In this part, you will collect and analyze audios (using PRAAT) to identify features to detect COVID-19 signatures in voice. </td>
-		</tr>
-		<tr>
-			<td><b>Part 5: Automatic Speaker Age Estimation</b></td>
-			<td>In this part, you will use machine learning algorithms to build and optimize models for estimating age of people from their voice recordings.</td>
+			<td><b>Part 4: COVID-19 Twitter Misinformation Analysis</b></td>
+			<td>In this problem you will engineer features and create models that distinguish real information from misinformation about COVID-19 on Twitter. </td>
 		</tr>
 	</tbody>
 </table>
 
-## Assignment III: Images (20 points)
-This assignment will be based on images and steganography. We will add the details later.
+## Assignment III: Machine Learning, Voice Forensics, and Image Forensics (20 points)
+This assignment will be based on machine learning, audio/voice, and image forensics. There are three parts to this homework
+
+<table>
+	<tbody>	
+		<tr>
+			<td><b>Part 1: Analyzing Audios for COVID-19 signatures</b></td>
+			<td>In this part, you will collect and analyze audios (using PRAAT) to identify features to detect COVID-19 signatures in voice. </td>
+		</tr>
+		<tr>
+			<td><b>Part 2: Automatic Speaker Age Estimation</b></td>
+			<td>In this part, you will use machine learning algorithms to build and optimize models for estimating age of people from their voice recordings.</td>
+		</tr>
+		<tr>
+			<td><b>Part 3: Identifying Image Rescaling</b></td>
+			<td>In this part, you will explore how to detect if an image has been tampered computationally using correlation analysis.</td>
+		</tr>
+	</tbody>
+</table>
 
 ## Assignment IV: DeepFakes (20 points)
 DeepFake is the process of swapping the face of a source identity with a target identity in a given video/image using deep learning techniques. The name originates from "deep learning" and "fake". There are many technologies that can used to generate fakes but ones that use deep learning are called DeepFakes and tend to be the most photo-realistic. This assignment is to familiarize you with “DeepFakes”. There are two parts to this assignment which are as follows:
