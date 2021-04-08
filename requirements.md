@@ -8,7 +8,7 @@ Grading will be based on 2 major components: Weekly quizzes and Bi-weekly assign
 
 # Grading Breakdown
 
-There are a total of 100 points:
+The course grading will be based on a total of 100 points:
 
 <table>
 	<tbody>	
@@ -20,13 +20,13 @@ There are a total of 100 points:
 		<tr>
 			<td class="icon" style="color: orange">📑</td>
 			<td><b>Quizzes</b><br>20 points</td>
-			<td>There will be about 10-12 quizzes in all. We will drop your two lowest quizzes. Each quiz will be worth equal points, and based on the lectures of the past week.</td>
+			<td>There will be about 8-12 quizzes in all. We will drop your two lowest quizzes. Each quiz will be worth equal points, and based on the lectures of the past week.</td>
 		</tr>
 	</tbody>
 </table>
 
 # Assignments
-The four assignments for this course will be based on state-of-the-art technqiues to track cybercrimes. A brief description of them is as follows:
+The four assignments for this course will be based on state-of-the-art techniques to track cyber-crimes. A brief description of them is as follows:
 
 ## Assignment I: Network & Deep Web Forensic Analysis (20 points)
 The first part of this assignment will be based on getting familiar with "packet sniffing" and analyzing data network characteristics using the network packet trace This assignment will be based on getting familiar with network and deep web forensics. There are six parts to this homework. The first three parts will be based on “packet sniffing” and analyzing data network characteristics using the network packet trace (or pcap), and understanding to identify different network threats and vulnerabilities. The last three parts with be based on getting familiar with the dark web by analyzing the characteristics of the Tor circuit, crawling and modeling topics around the dark web, and finally getting familiar with the Tor hidden services. The six parts are briefly described below:

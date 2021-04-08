@@ -30,7 +30,6 @@ With new AI-based technologies that power almost all activities in the digital w
 		 Zhenzhen Liu (zhenzhel@andrew.cmu.edu)\\
 		 [Shahan Ali Memon](https://nyuad.nyu.edu/en/research/postdoctoral-research/researchers/research-bios/shahan-ali-memon.html) (samemon@andrew.cmu.edu)\\
 		 [Bhiksha Raj](http://mlsp.cs.cmu.edu/people/bhiksha/index.php) (bhiksha@cs.cmu.edu)\\
-		 [Ben Striner](https://www.linkedin.com/in/benjamin-striner-48a9a913/) (bstriner@andrew.cmu.edu)
 
 ## Venue and timings for lectures and office hours
 
@@ -39,7 +38,7 @@ Office Hours: By appointment
 
 
 ## Basic course structure
-There will be 14 weeks of lectures. A different forensic subarea will be covered each week in 2 lectures of 1 hr 20 mins each. There will be one quiz at the end of each week (released Friday midnight, due Sunday midnight) and 4 homeworks in all. Each homework will be due within 2 weeks from the date of release. 
+There will be 14 weeks of lectures. A different forensic subarea will be covered each week in 2 lectures of 1 hr 20 mins each. There will be one quiz at the end of each week (released Thursday midnight, due Sunday midnight) and 4 homeworks in all. Each homework will be due within 2 weeks from the date of release. 
 
 **Schedule of lectures:**
 
@@ -58,9 +57,9 @@ There will be 14 weeks of lectures. A different forensic subarea will be covered
 **Week 13:** DeepFakes: generation and tracking\\
 **Week 14:** Advanced tracking techniques
 
-A more comprehensive syllabus can be found [here](https://drive.google.com/file/d/1DgTGOnRHeSikfUWpsAJ6HNiE1dW4ofKd/view?usp=sharing) 
+A more comprehensive syllabus can be found [here](https://drive.google.com/file/d/1IXKJdgz4U-E8Pv9wlv_Yqlz9KZqFrS26/view?usp=sharing). 
 
-The weekly lectures will be slide-based. Research papers, (accessible) textbook chapters and notes will be provided as links where necessary. Slides for each class will be uploaded on Piazza *after* each class, on the same day as the class.
+The weekly lectures will be slide-based. Research papers, (accessible) textbook chapters and notes will be provided as links where necessary. Slides for each class will be uploaded on Canvas *after* each class, on the same day as the class.
 Homeworks will be released in class, and explained in a 30 minute recitation at the end of the corresponding class. Attendance is expected and recommended. Lectures **will** be recorded.
 
 ## Enrollment requirements
