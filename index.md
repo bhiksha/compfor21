@@ -31,11 +31,9 @@ With new AI-based technologies that power almost all activities in the digital w
 		 [Shahan Ali Memon](https://nyuad.nyu.edu/en/research/postdoctoral-research/researchers/research-bios/shahan-ali-memon.html) (samemon@andrew.cmu.edu)\\
 		 [Bhiksha Raj](http://mlsp.cs.cmu.edu/people/bhiksha/index.php) (bhiksha@cs.cmu.edu)\\
 
+##<p style="color:red;">IMPORTANT INFORMATION: THIS COURSE IS NOT BEING TAUGHT IN SPRING 2022.  I WILL BE SHIFTING IT TO FALL 2022.  THERE MAY BE AN ALTERNATE COURSE PUT UP BY THE DEPARTMENT UNDER THE SAME NUMBER (AND POSSIBLY TITLE), WITH A DIFFERENT INSTRUCTOR, BUT THAT WILL NOT BE THIS COURSE OR SYLLABUS</p>
+
 ## Venue and timings for lectures and office hours
-
-Lecture: Monday and Wednesday, 8:20 p.m. - 9:40 p.m. over Zoom \\
-Office Hours: By appointment
-
 
 ## Basic course structure
 There will be 14 weeks of lectures. A different forensic subarea will be covered each week in 2 lectures of 1 hr 20 mins each. There will be one quiz at the end of each week (released Thursday midnight, due Sunday midnight) and 4 homeworks in all. Each homework will be due within 2 weeks from the date of release. 
