@@ -31,10 +31,9 @@ With new AI-based technologies that power almost all activities in the digital w
 		 [Shahan Ali Memon](https://nyuad.nyu.edu/en/research/postdoctoral-research/researchers/research-bios/shahan-ali-memon.html) (samemon@andrew.cmu.edu)\\
 		 [Bhiksha Raj](http://mlsp.cs.cmu.edu/people/bhiksha/index.php) (bhiksha@cs.cmu.edu)\\
 
-## Venue and timings for lectures and office hours
+## <p style="color:red;">IMPORTANT INFORMATION: THIS COURSE IS NOT BEING TAUGHT IN SPRING 2022.  I WILL BE SHIFTING IT TO FALL 2022.  THERE MAY BE AN ALTERNATE COURSE PUT UP BY THE DEPARTMENT UNDER THE SAME NUMBER (AND POSSIBLY TITLE), WITH A DIFFERENT INSTRUCTOR, BUT THAT WILL NOT BE THIS COURSE OR SYLLABUS</p>
 
-Lecture: Monday and Wednesday, 8:20 p.m. - 9:40 p.m. over Zoom \\
-Office Hours: By appointment
+## Venue and timings for lectures and office hours
 
 
 ## Basic course structure
